@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Uzbekistan about</string>
+    <string name="toshkent">Tashkent</string>
+    <string name="o_zbekiston_poytaxti">Uzbekistan Capital</string>
+    <string name="uzbekistan_about">UZBEKISTAN ABOUT</string>
+    <string name="samarqand">Samarkand</string>
+    <string name="qadimiy_shahar">Ancient city</string>
+    <string name="andijon">Andijan</string>
+    <string name="o_zbekistonning_yirik_shaharlaridan_biri">One of the largest cities of Uzbekistan</string>
+    <string name="buxoro">Bukhara</string>
+    <string name="o_zbekistonning_ilk_poytaxti">The first capital of Uzbekistan</string>
+    <string name="farg_ona">Fergana</string>
+    <string name="respublikaning_yirik_shaharlaridan_biri">One of the largest cities of the republic</string>
+    <string name="jizzax">jizzakh</string>
+    <string name="_1960_yilda_asos_solingan">It was founded in 1960</string>
+    <string name="xorazm">Khorazm</string>
+    <string name="rivojlangan_irrigatsiyali_dehqonchilik_va_savdo_mintaqasi">a developed irrigated farming and trading region</string>
+    <string name="namangan">Namangan</string>
+    <string name="namangan_viloyatidagi_shahar_aholi_soni_bo_yicha_farg_onadan_oldingi_o_rinda">A city in Namangan region. In terms of population, it is ahead of Fergana.</string>
+    <string name="navoiy">Navaiy</string>
+    <string name="bu_shahar_alisher_navoiy_sharafiga_atab_shunday_nomlangan">this city was named after Alisher Navoi</string>
+    <string name="qashqadaryo">Kashkadarya</string>
+    <string name="_1924_yil_1_noyabrda_tashkil_etilgan">It was founded on November 1, 1924.</string>
+    <string name="surxondaryo">Surkhandarya</string>
+    <string name="viloyat_nomi_surxon_fors_tojik_qizil_daryosi_nomidan_kelib_chiqqan">The name of the region comes from the Surkhan (Persian-Tajik: red) river.</string>
+    <string name="qoraqalpogiston">Korakalpagistan</string>
+    <string name="qoraqalpog_iston_parlament_boshqaruv_shakliga_ega_bo_lgan_o_zbekiston_tarkibidagi_respublikadir">Karakalpakstan is a republic within Uzbekistan with a parliamentary form of government.</string>
+    <string name="asdf">" O'zbekistonning poytaxti va eng yirik shahri bo'lib, aholisi bo'yicha Markaziy Osiyodagi eng yirik qadimiy shaharlard</string>
+
+</resources>

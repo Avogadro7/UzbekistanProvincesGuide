@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">O\'zbekiston haqida</string>
+    <string name="toshkent">Toshkent</string>
+    <string name="o_zbekiston_poytaxti">O\'zbekiston poytaxti</string>
+    <string name="uzbekistan_about">O\'ZBEKISTON haqida</string>
+    <string name="samarqand">Samarqand</string>
+    <string name="qadimiy_shahar">Qadimiy shahar</string>
+    <string name="andijon">Andijon</string>
+    <string name="o_zbekistonning_yirik_shaharlaridan_biri">Oʻzbekistonning yirik shaharlaridan biri</string>
+    <string name="buxoro">Buxoro</string>
+    <string name="o_zbekistonning_ilk_poytaxti">O\'zbekistonning ilk poytaxti</string>
+    <string name="farg_ona">Farg\'ona</string>
+    <string name="respublikaning_yirik_shaharlaridan_biri">Respublikaning yirik shaharlaridan biri</string>
+    <string name="jizzax">Jizzax</string>
+    <string name="_1960_yilda_asos_solingan">1960-yilda asos solingan</string>
+    <string name="xorazm">Xorazm</string>
+    <string name="rivojlangan_irrigatsiyali_dehqonchilik_va_savdo_mintaqasi">rivojlangan irrigatsiyali dehqonchilik va savdo mintaqasi</string>
+    <string name="namangan">Namangan</string>
+    <string name="namangan_viloyatidagi_shahar_aholi_soni_bo_yicha_farg_onadan_oldingi_o_rinda">Namangan viloyatidagi shahar. Aholi soni boʻyicha Fargʻonadan oldingi oʻrinda.</string>
+    <string name="navoiy">Navoiy</string>
+    <string name="bu_shahar_alisher_navoiy_sharafiga_atab_shunday_nomlangan">bu shahar Alisher Navoiy sharafiga atab shunday nomlangan</string>
+    <string name="qashqadaryo">Qashqadaryo</string>
+    <string name="_1924_yil_1_noyabrda_tashkil_etilgan">1924-yil 1-noyabrda tashkil etilgan.</string>
+    <string name="surxondaryo">Surxondaryo</string>
+    <string name="viloyat_nomi_surxon_fors_tojik_qizil_daryosi_nomidan_kelib_chiqqan">Viloyat nomi Surxon (fors-tojik: qizil) daryosi nomidan kelib chiqqan.</string>
+    <string name="qoraqalpogiston">Qoraqalpogiston</string>
+   <string name="asdf">" O'zbekistonning poytaxti va eng yirik shahri bo'lib, aholisi bo'yicha Markaziy Osiyodagi eng yirik qadimiy shaharlard</string>
+    <string name="qoraqalpog_iston_parlament_boshqaruv_shakliga_ega_bo_lgan_o_zbekiston_tarkibidagi_respublikadir">Qoraqalpogʻiston — parlament boshqaruv shakliga ega boʻlgan O\'zbekiston tarkibidagi respublikadir.</string>
+</resources>

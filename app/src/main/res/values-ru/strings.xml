@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Узбекистан о</string>
+    <string name="toshkent">Тошкент</string>
+    <string name="o_zbekiston_poytaxti">Тошкент </string>
+    <string name="uzbekistan_about">Узбекистан о</string>
+    <string name="samarqand">Самарканд</string>
+    <string name="qadimiy_shahar">Древний город</string>
+    <string name="andijon">Андижан</string>
+    <string name="o_zbekistonning_yirik_shaharlaridan_biri">Один из крупнейших городов Узбекистана</string>
+    <string name="buxoro">Бухара</string>
+    <string name="o_zbekistonning_ilk_poytaxti">Первая столица Узбекистана</string>
+    <string name="farg_ona">Фергана</string>
+    <string name="respublikaning_yirik_shaharlaridan_biri">Один из крупнейших городов республики</string>
+    <string name="jizzax">Джизак</string>
+    <string name="_1960_yilda_asos_solingan">Он был основан в 1960 году</string>
+    <string name="xorazm">Хорезм</string>
+    <string name="rivojlangan_irrigatsiyali_dehqonchilik_va_savdo_mintaqasi">регион развитого орошаемого земледелия и торговли</string>
+    <string name="namangan">Наманган</string>
+    <string name="namangan_viloyatidagi_shahar_aholi_soni_bo_yicha_farg_onadan_oldingi_o_rinda">Город в Наманганской области. По численности населения она опережает Фергану.</string>
+    <string name="navoiy">Навои</string>
+    <string name="bu_shahar_alisher_navoiy_sharafiga_atab_shunday_nomlangan">этот город был назван в честь Алишера Навои</string>
+    <string name="qashqadaryo">Кашкадарья</string>
+    <string name="_1924_yil_1_noyabrda_tashkil_etilgan">Основан 1 ноября 1924 года.</string>
+    <string name="surxondaryo">Сурхандарьинская</string>
+    <string name="viloyat_nomi_surxon_fors_tojik_qizil_daryosi_nomidan_kelib_chiqqan">Название района происходит от реки Сурхан (персидско-таджикское: красная).</string>
+    <string name="qoraqalpogiston">Каракалпакстан</string>
+    <string name="qoraqalpog_iston_parlament_boshqaruv_shakliga_ega_bo_lgan_o_zbekiston_tarkibidagi_respublikadir">Каракалпакстан — республика в составе Узбекистана с парламентской формой правления.</string>
+    <string name="asdf">" O'zbekistonning poytaxti va eng yirik shahri bo'lib, aholisi bo'yicha Markaziy Osiyodagi eng yirik qadimiy shaharlard</string>
+
+</resources>
