@@ -42,11 +42,18 @@ I created this app because I wanted to share the beauty and history of my countr
 
 ## Screenshots
 
+
+
+
+
+
 <p align="center">
-  <img src="screenshots/photo_1_2026-01-03_20-41-04.jpg" width="200" alt="Home Screen" />
-  <img src="screenshots/photo_2_2026-01-03_20-41-04.jpg" width="200" alt="Language Selection" />
-  <img src="screenshots/photo_3_2026-01-03_20-41-04.jpg" width="200" alt="Provinces List" />
-  <img src="screenshots/photo_4_2026-01-03_20-41-04.jpg" width="200" alt="Province Details" />
+  <img src="screenshots/Screenshot 2026-01-03 205737.png" width="200" alt="Splash Screen" />
+  <img src="screenshots/Screenshot 2026-01-03 205628.png" width="200" alt="Language Selection" />
+  <img src="screenshots/Screenshot 2026-01-03 205617.png" width="200" alt="Provinces List Uzb" />
+  <img src="screenshots/Screenshot 2026-01-03 205603.png" width="200" alt="Provinces List Eng" />
+  <img src="screenshots/Screenshot 2026-01-03 205545.png" width="200" alt="Provinces List Eng" />
+  <img src="screenshots/Screenshot 2026-01-03 205536.png" width="200" alt="Province Details" />
 </p>
 
 ## Educational Value
