@@ -82,23 +82,14 @@ This app is useful for:
 - **IDE:** Android Studio
 - **Min SDK:** 24 (Android 7.0)
 - **Target SDK:** 34 (Android 14)
-- **Architecture:** MVVM (or your architecture)
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Avogadro7/UzbekistanProvincesGuide.git
-```
 
-2. Open in Android Studio
-
-3. Run on emulator or device
 
 ## Current Status & Future Plans
 
 ### Current Features ✅
-- Browse all 14 provinces
+- Browse all 13 provinces
 - View beautiful images
 - Read information in 3 languages
 - Traditional Uzbek design
@@ -147,6 +138,5 @@ Thanks to all who helped preserve and share Uzbekistan's cultural heritage. Spec
 
 ---
 
-**Made with 🇺🇿 pride by an Uzbek developer**
 
 *Discover the beauty of Uzbekistan, one province at a time!*
