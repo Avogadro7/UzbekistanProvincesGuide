@@ -5,7 +5,7 @@ An educational mobile app that provides information about all provinces (viloyat
 ## Features
 
 ### 📚 Comprehensive Information
-- **All 12 regions** - Complete coverage of Uzbekistan provinces
+- **All 13 regions** - Complete coverage of Uzbekistan provinces
 - **Major cities** - Information about key cities in each region
 - **Beautiful images** - High-quality photos of landmarks and attractions
 - **Historical facts** - Learn about the rich history of each province
